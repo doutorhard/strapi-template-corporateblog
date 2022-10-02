@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_blog_fetured_posts",
+  "info": {
+    "displayName": "FeturedPost",
+    "icon": "text-width"
+  },
+  "options": {},
+  "attributes": {
+    "FeaturedPostHeading": {
+      "type": "string"
+    }
+  }
+}
